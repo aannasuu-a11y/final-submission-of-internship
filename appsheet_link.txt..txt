@@ -1,1 +1,9 @@
-https://www.appsheet.com/start/7454d4a1-a86d-4aa3-bd30-52afc60ffa97?platform=desktop#appName=NewApp-963243793&vss=H4sIAAAAAAAAA6WOOw7CMBBE7zK1T-AWUSAEDYgGU2zijbBI7Ch2gMjy3bH51kC5s3pvJuJs-LIJVJ8g9_FzLXmCRFTYTj0rSIWZs2FwrYJQWFP3CDX5Y-Vo0AoJ6SBegsAeMn7Jyz_7BYxmG0xjeCiygmbJE8zvguXgDSEJdGOgquX75gyllLPG1aNnvctjfhnhF3Z-7cnqldPZ2VDrOd0AYnKcKGoBAAA=&view=dashboard
+# EcoServe
+
+A smart food inventory and waste management application developed using AppSheet to reduce food waste through inventory tracking, expiry monitoring, barcode scanning, donation management, and food loss analysis.
+
+## 🚀 Live Application
+
+👉 **[Open EcoServe App](https://www.appsheet.com/start/7454d4a1-a86d-4aa3-bd30-52afc60ffa97?platform=desktop#appName=NewApp-963243793&vss=H4sIAAAAAAAAA6WOOw7CMBBE7zK1T-AWUSAEDYgGU2zijbBI7Ch2gMjy3bH51kC5s3pvJuJs-LIJVJ8g9_FzLXmCRFTYTj0rSIWZs2FwrYJQWFP3CDX5Y-Vo0AoJ6SBegsAeMn7Jyz_7BYxmG0xjeCiygmbJE8zvguXgDSEJdGOgquX75gyllLPG1aNnvctjfhnhF3Z-7cnqldPZ2VDrOd0AYnKcKGoBAAA=&view=dashboard)**
+
+> Click the link above to launch the EcoServe application.
