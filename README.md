@@ -34,3 +34,10 @@ Instructions to Run the Program:
 4. Update inventory details, expiry dates, and stock levels.
 5. Record food waste and donations as needed.
 6. View the dashboard to monitor inventory, food loss, and donation reports.
+# EcoServe
+
+
+
+👉 **[Open EcoServe App](https://www.appsheet.com/start/7454d4a1-a86d-4aa3-bd30-52afc60ffa97?platform=desktop#appName=NewApp-963243793&vss=H4sIAAAAAAAAA6WOOw7CMBBE7zK1T-AWUSAEDYgGU2zijbBI7Ch2gMjy3bH51kC5s3pvJuJs-LIJVJ8g9_FzLXmCRFTYTj0rSIWZs2FwrYJQWFP3CDX5Y-Vo0AoJ6SBegsAeMn7Jyz_7BYxmG0xjeCiygmbJE8zvguXgDSEJdGOgquX75gyllLPG1aNnvctjfhnhF3Z-7cnqldPZ2VDrOd0AYnKcKGoBAAA=&view=dashboard)**
+
+
